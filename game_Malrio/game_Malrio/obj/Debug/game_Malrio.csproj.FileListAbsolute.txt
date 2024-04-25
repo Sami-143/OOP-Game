@@ -1,0 +1,10 @@
+C:\Users\AL-FATAH LAPTOP\Desktop\malik\game_Malrio\game_Malrio\obj\Debug\game_Malrio.csproj.AssemblyReference.cache
+C:\Users\AL-FATAH LAPTOP\Desktop\malik\game_Malrio\game_Malrio\obj\Debug\game_Malrio.csproj.CoreCompileInputs.cache
+C:\Users\AL-FATAH LAPTOP\Desktop\malik\game_Malrio\game_Malrio\bin\Debug\game_Malrio.exe.config
+C:\Users\AL-FATAH LAPTOP\Desktop\malik\game_Malrio\game_Malrio\bin\Debug\game_Malrio.exe
+C:\Users\AL-FATAH LAPTOP\Desktop\malik\game_Malrio\game_Malrio\bin\Debug\game_Malrio.pdb
+C:\Users\AL-FATAH LAPTOP\Desktop\malik\game_Malrio\game_Malrio\bin\Debug\EZInput.dll
+C:\Users\AL-FATAH LAPTOP\Desktop\malik\game_Malrio\game_Malrio\bin\Debug\EZInput.xml
+C:\Users\AL-FATAH LAPTOP\Desktop\malik\game_Malrio\game_Malrio\obj\Debug\game_Malrio.csproj.CopyComplete
+C:\Users\AL-FATAH LAPTOP\Desktop\malik\game_Malrio\game_Malrio\obj\Debug\game_Malrio.exe
+C:\Users\AL-FATAH LAPTOP\Desktop\malik\game_Malrio\game_Malrio\obj\Debug\game_Malrio.pdb
